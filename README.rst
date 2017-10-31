@@ -37,6 +37,8 @@
 Bottle: Python Web Framework
 ============================
 
+.. Bottle源码分析: https://hexiangyu.me/posts/18
+
 Bottle is a fast, simple and lightweight WSGI_ micro web-framework for Python_. It is distributed as a single file module and has no dependencies other than the `Python Standard Library <http://docs.python.org/library/>`_.
 
 
